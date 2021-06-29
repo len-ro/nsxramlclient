@@ -1,3 +1,5 @@
+#Updated to python 3 in order to maintain compatibility with existing projects until migrating to a different library.
+
 #VMware has ended active development of this project, this repository will no longer be updated.
 
 #nsxramlclient
