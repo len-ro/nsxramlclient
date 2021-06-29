@@ -16,6 +16,10 @@ Also, in the NSXv 6.3 version of the nsx raml spec XML Comments and pre-filled c
 
 # Version History
 
+## Version 2.0.8
+
+Support for python3.
+
 ## Version 2.0.7
 NSX-v 6.4 introduced a new response code 202 for the controller creation API (Issue [#22]). This version of nsxramlclient accepts 202
 as a successful response code
